@@ -3,5 +3,5 @@ class MyClass():
         self.name = name
 
     def say_name(self):
-        print('name is {}'.format(self.name))
+        print('My name is {}'.format(self.name))
 
